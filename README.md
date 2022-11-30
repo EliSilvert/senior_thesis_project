@@ -1,2 +1,3 @@
-# BuzzButton
-Data analysis tools for interpreting raw button spinner data
+# BuzzButton: an induction energy generator inspired by the mechanics of the simple button spinner
+This project served as a senior thesis, independent study, and senior capstone project for three Brown University undergraduates, and resulted in a (utility) patent-pending device. The main innovation was mounted the button spinner toy (https://youtu.be/-QMmfDhrZxg) to a stationary component (https://youtu.be/ks05l4el3eo), which enables better control of the spinning disc and the development of an axial induction energy generator (https://drive.google.com/file/d/16kPrUAi85ClkKdtuXTI8HTNAFw5Z9hoD/view?usp=sharing). 
+This repository includes data analysis tools for interpreting images from a 1000 FPS camera (Casio Exilim EX-FH20 9.1 MP Digital Camera) of the button spinner in action to calculate angular velocity through time, which is necessary for validating the Mathematica model developing in Haneesh Kesari's Applied Mechanics Lab at Brown.
